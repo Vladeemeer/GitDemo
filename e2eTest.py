@@ -35,3 +35,5 @@ driver.get_screenshot_as_file("screen.png")
 
 #dodato
 #3jos dodataka
+
+#ovde Amer dodade jos nesto bezveze

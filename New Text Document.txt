@@ -10,3 +10,5 @@ Kobiton
 MonkeyTalk
 Selendroid (Selenium for Android)
 The above are, in my opinion, the best testing platforms for mobile app development in 2020 and onward. There’s stuff like Jenkins and Bamboo if you’re looking for specialized tools like CI (Continuous integration), but that’s about all I could come up with after some extensive research.
+
+ovde se dodaje nesto bezveze
