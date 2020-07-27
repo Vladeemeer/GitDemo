@@ -39,3 +39,5 @@ driver.get_screenshot_as_file("screen.png")
 #ovde Amer dodade jos nesto bezveze
 
 #Indijci dodaju z branch
+
+#zadnje od Amera vezano za branch
